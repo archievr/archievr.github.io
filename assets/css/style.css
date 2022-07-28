@@ -1415,12 +1415,12 @@ p {
   padding-top: 50px; }
 
 .footer-about .logo img {
-  width: 160px; }
+  width: 14ch; }
 
 .footer-about .text {
   color: #fff;
   line-height: 30px;
-  margin-top: 30px; }
+  margin-top: 1ch;}
 
 .footer-about .social {
   margin-top: 40px; }
