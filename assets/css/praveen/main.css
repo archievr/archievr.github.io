@@ -1,5 +1,5 @@
 .plogo1{
-    max-width: 18%;
+    max-width: 8%;
 }
 
 .about-content ul {
@@ -12,8 +12,10 @@
 @media only screen and (max-width: 600px){
 	.plogo1{
     max-width: 15%;
-    position: absolute;
-    top: 14%;
+    /* width: 10em; */
+    /* position: absolute;
+    top: 14%; */
+
     }
 }
 .logo-fotter{
